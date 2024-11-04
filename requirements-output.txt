@@ -39,4 +39,4 @@ pymisp==2.4.194
 redis==5.0.7
 
 # Oracle Cloud
-oci==2.129.2
+oci==2.137.1
